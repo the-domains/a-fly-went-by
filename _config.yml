@@ -1,0 +1,28 @@
+name: '      A fly went by'
+favicon: null
+layout_spectrum: 0.8480906300246716
+typography_spectrum: 0.13393109035678208
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.47342544072307646
+  lightness: 0.8261986228171736
+  saturation: 0.049497265834361315
+  rhythmicContrast: 0.45611717482097447
+purpose: []

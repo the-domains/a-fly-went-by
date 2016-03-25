@@ -1,4 +1,4 @@
-name: '      A fly went by'
+name: '      A Fly Went By'
 favicon: null
 layout_spectrum: 0.28482
 typography_spectrum: 0.13203
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#050308'
-    - '#7d4223'
-    - '#a8ac9f'
-    - '#c5733e'
+    - '#ffffff'
+    - '#000000'
+    - '#7995a6'
+    - '#4d5156'
+    - '#bb1502'
   brandStrength: 0.25
-  lightness: 0.375
-  saturation: 0.625
-  rhythmicContrast: 0.75
+  lightness: 0.4375
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
